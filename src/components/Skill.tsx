@@ -1,4 +1,3 @@
-import React from 'react'
 
 const Skill = (props:SkillProps) => {
   return (

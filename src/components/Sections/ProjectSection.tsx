@@ -1,4 +1,3 @@
-import React from 'react'
 import todo from '/todo-list-app.png'
 import Project from '../Project'
 import tasks from '/task-tracker-app.png'

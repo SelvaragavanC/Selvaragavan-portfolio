@@ -1,9 +1,7 @@
-import React from 'react'
 import { FaLinkedinIn } from "react-icons/fa";
 import { BiLogoGmail } from "react-icons/bi";
 import { SiLeetcode } from "react-icons/si";
 import { FaGithub } from "react-icons/fa";
-import { color } from 'framer-motion';
 
 const ContactSection = () => {
   return (

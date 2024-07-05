@@ -1,4 +1,3 @@
-import React, { useEffect, useState } from 'react'
 import Navbar from '../Navbar'
 import DisplayTexts from '../DisplayTexts'
 import image from '/Selvaragavan-image.jpg'
