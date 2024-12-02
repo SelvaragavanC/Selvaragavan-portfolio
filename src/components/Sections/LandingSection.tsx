@@ -1,6 +1,6 @@
 import Navbar from '../Navbar'
 import DisplayTexts from '../DisplayTexts'
-import image from '/Selvaragavan-image.jpg'
+import image from '/SelvaPortFolio.jpg'
 import {motion} from 'framer-motion'
 
 const LandingSection = () => {
